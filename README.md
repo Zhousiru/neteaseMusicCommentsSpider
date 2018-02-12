@@ -8,7 +8,7 @@ neteaseMusicCommentsSpider
 2. `python master/taskMaster.py`
 3. ` python worker/taskWorker.py`
 	
-**注意：**需要运行 MongoDB。
+注意：需要运行 MongoDB。
 
 自定义 MongoDB 连接？
 -----
